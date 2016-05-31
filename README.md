@@ -1,20 +1,23 @@
 ## <p align="center">Computer Vision and Image Processing</br>Convolution and Histogram</br>CSE 573 - Fall 2015
 
 
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Convolution_and_Histogram/master/Problem_1.png)
-
-<p align="center">![Img_2](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Convolution_and_Histogram/master/Problem_2.png)
-
 
 Goal
 ------
 Perform [Convolution](https://en.wikipedia.org/wiki/Convolution) and [Histogram Equalization](https://en.wikipedia.org/wiki/Histogram_equalization)
 
+Refer [Problem 1](https://github.com/ramanpreet1990/CSE_573_Convolution_and_Histogram/blob/master/Problem_1.png) and [Problem 2](https://github.com/ramanpreet1990/CSE_573_Convolution_and_Histogram/blob/master/Problem_2.png)
+
+
+Solution
+------
+Refer detailed report here: -</br>
+https://github.com/ramanpreet1990/CSE_573_Convolution_and_Histogram/blob/master/Result_Report.pdf
 
 
 Credits
 -------
-We acknowledge and grateful to [**Professor Chang Wen Chen**](http://www.cse.buffalo.edu/faculty/chencw/) and TAs [**Radhakrishna Dasari**](http://www.acsu.buffalo.edu/~radhakri/) and [**Bhargava Urala Kota**](http://www.cse.buffalo.edu/people/?u=buralako) for their continuous support throughout the Course ([**CSE 573**](http://www.cse.buffalo.edu/shared/course.php?e=CSE&n=573&t=Comp+Vision+%26+Image+Proc)) that helped us learn the skills of Computer Vision and design a wavelet transform based scheme for edge detection.
+I acknowledge and grateful to [**Professor Chang Wen Chen**](http://www.cse.buffalo.edu/faculty/chencw/) and TAs [**Radhakrishna Dasari**](http://www.acsu.buffalo.edu/~radhakri/) and [**Bhargava Urala Kota**](http://www.cse.buffalo.edu/people/?u=buralako) for their continuous support throughout the Course ([**CSE 573**](http://www.cse.buffalo.edu/shared/course.php?e=CSE&n=573&t=Comp+Vision+%26+Image+Proc)) that helped me learn the skills of Computer Vision and Image Processing.
 
 
 Developer
